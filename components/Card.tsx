@@ -12,6 +12,7 @@ const Card: React.FC<Props> = ({ children }: Props) => {
         borderRadius: "0.5rem",
       }}
     >
+      Hello
       <div
         style={{
           backgroundColor: "var(--dark)",
